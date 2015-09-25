@@ -2,12 +2,11 @@ GETTING AND CLEANING DATA WEEK 3 COURSE PROJECT
 =====================
 
 ## SOURCE CODE
-The code to getting and cleaning the UCI data set is located in run_analysis.R .
+The code to getting and cleaning the UCI data set is located in _run\_analysis.R_ .
 
 ## DATA SET SOURCE
 The data set is downloaded from a url site given by the course provider at:
-"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%
-20HAR%20Dataset.zip"
+"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
 This data set is downloaded as _CleanData3.zip_. A copy of the zipped file is
 located in this github repository.
